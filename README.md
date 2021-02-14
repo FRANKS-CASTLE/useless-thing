@@ -3,7 +3,7 @@
 
 created with:
  * JSCrush
- * golden hands that wrote this shit-code
+ * golden hands that wrote original shit-code
 
 u can:
  * steal it
